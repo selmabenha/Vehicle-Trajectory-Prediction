@@ -2,6 +2,8 @@
 
 This repository contains coursework and projects completed for the **Deep Learning for Autonomous Vehicles (DLAV)** course at EPFL. The projects cover trajectory prediction with transformers, image classification with linear models and neural networks, and convolutional neural networks for visual recognition.
 
+![Trajectory Prediction Example](visualizations/framework.png)
+
 ## Overview
 
 The repository is organized into three main assignments:
